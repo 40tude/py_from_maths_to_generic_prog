@@ -1,3 +1,9 @@
 .git/
 .mypy_cache/
-.vscode/
+# .vscode/
+
+Debug/
+# *.pdb
+# *.obj
+# *.ilk
+# *.exe
